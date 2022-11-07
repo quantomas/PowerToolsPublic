@@ -1,0 +1,16 @@
+
+# kostenlos + Code
+http://openbook.rheinwerk-verlag.de/python/
+https://www.pro-linux.de/news/1/27951/handbuch-zu-python-3-als-openbook-ver%C3%B6ffentlicht.html
+
+
+### Python
+Slatkin, B: Effective Python (Effective Software Development) (Englisch) Taschenbuch – 26. April 2019
+https://www.amazon.de/Effective-Python-Specific-Software-Development/dp/0134853989 48 (444)
+
+Python 3: Das umfassende Handbuch: Sprachgrundlagen, Objektorientierte Programmierung, Modularisierung (Ausgabe 2017) (Deutsch) Gebundene Ausgabe – 7. November 2017
+https://www.amazon.de/Python-Sprachgrundlagen-Objektorientierte-Programmierung-Modularisierung/dp/3836258641 45 (1040)
+
+Python 3 Object-Oriented Programming: Build robust and maintainable software with object-oriented design patterns in Python 3.8, 3rd Edition (English Edition) (Englisch) Taschenbuch – 30. Oktober 2018
+https://www.amazon.de/Python-Object-Oriented-Programming-maintainable-object-oriented/dp/1789615852
+
