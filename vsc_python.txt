@@ -1,0 +1,60 @@
+
+Getting Started with Python in VS Code
+https://code.visualstudio.com/docs/python/python-tutorial
+
+Read the latest updates about all things Python at Microsoft
+https://devblogs.microsoft.com/python/
+
+
+### Python
+https://marketplace.visualstudio.com/items?itemName=ms-python.python
+    Step 1. Install a supported version of Python on your system (note: that the system install of Python on macOS is not supported).
+    Step 2. Install the Python extension for Visual Studio Code.
+    Step 3. Open or create a Python file and start coding!
+
+## Features
+
+# IntelliSense and auto-completions
+https://code.visualstudio.com/docs/python/editing#_autocomplete-and-intellisense
+IntelliSense and auto-completions work for standard Python modules as well as other packages you've installed into the environment 
+of the selected Python interpreter. It also provides completions for methods available on object types.
+
+# Linting
+https://code.visualstudio.com/docs/python/linting
+Linting highlights syntactical and stylistic problems in your Python source code, which oftentimes helps you identify and correct 
+subtle programming errors or unconventional coding practices that can lead to errors.
+devcontainer.json:
+    - "python.linting.pylintEnabled": true - Specifies whether to enable Pylint
+    - "python.linting.enabled": true - Specifies whether to enable linting in general
+https://code.visualstudio.com/docs/python/settings-reference
+
+# Jupyter Notebooks
+https://code.visualstudio.com/docs/python/jupyter-support
+To work with Jupyter notebooks, you must activate an Anaconda environment in VS Code, or another Python environment in which 
+you've installed the Jupyter package. Once the appropriate environment is activated, you can create and run Jupyter-like code cells, 
+connect to a remote Jupyter server for running code cells, open a Jupyter notebook directly, and export Python files as Jupyter notebooks.
+
+## Pylint
+
+Pylint is a source-code, bug and quality checker for the Python programming language.
+https://www.pylint.org/
+https://pylint.readthedocs.io/en/latest/tutorial.html
+https://pylint.readthedocs.io/en/latest/user_guide/run.html
+Linting Python in Visual Studio Code - https://code.visualstudio.com/docs/python/linting
+Why Pylint is both useful and unusable, and how you can actually use it - https://pythonspeed.com/articles/pylint/
+Python Code Quality: Tools & Best Practices, Linter Options For Python - https://realpython.com/python-code-quality/
+
+# run via terminal in VSC
+pylint example.py
+
+To perform linting in VSC:
+- Linting runs automatically when you save a file.
+- Open the Command Palette (Ctrl+Shift+P), then enter and select Python: Run Linting.
+
+
+## neu: checken
+
+https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
+
+Sourcecode-Editor: Pylance bricht eine Lanze für Python in Visual Studio Code
+https://www.heise.de/news/Sourcecode-Editor-Pylance-bricht-eine-Lanze-fuer-Python-in-Visual-Studio-Code-4800420.html
