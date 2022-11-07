@@ -9,6 +9,10 @@ Da die Textdateien sehr viele Links und URLs enthalten, ist es möglich, dass ei
 * [VSC Keyboard shortcuts for Windows](pdf/keyboard-shortcuts-windows_v2.pdf)
 * [Python Installation](py/)
 * [Python Basisbeispiele](py/basics/)
+* git (demnächst)
+* GitHub (demnächst)
+* mehr Python Data Science Beispiele (demnächst)
+* evtl. Dev-Container für VSC (demnächst)
 
 ## ToDo (gerne auch von anderen)
 * Beispiele für VSC und Markdown [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
