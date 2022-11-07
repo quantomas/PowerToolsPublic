@@ -1,0 +1,26 @@
+
+### Command Line Interface (CLI) "Insiders"
+https://code.visualstudio.com/docs/editor/command-line
+
+[05.04.21]
+code-insiders -v
+1.47.0-insider
+6af2987903c22bf9b19762d589bc46d4be636dc4
+x64
+
+code -v
+1.55.0
+c185983a683d14c396952dd432459097bc7f757f
+x64
+
+1.59.1
+3866c3553be8b268c8a7f8c0482c0c0177aa8bfa
+x64
+
+
+
+## Version history
+
+https://code.visualstudio.com/updates/
+https://github.com/microsoft/vscode/releases
+
