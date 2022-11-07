@@ -8,6 +8,7 @@ Da die Textdateien sehr viele Links und URLs enthalten, ist es möglich, dass ei
 ## Das Wichtigste
 * [VSC Keyboard shortcuts for Windows](pdf/keyboard-shortcuts-windows_v2.pdf)
 * [Python Installation](py/)
+* [Python Basisbeispiele](py/basics/)
 
 ## ToDo (gerne auch von anderen)
 * Beispiele für VSC und Markdown [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
