@@ -1,0 +1,15 @@
+
+### Azure "Lambda"
+# Use Functions extensions and templates on Visual Studio and Visual Studio Code for a faster and more efficient development on your local machine,
+# fully integrated with the whole Azure platform.
+https://azure.microsoft.com/en-us/services/functions/
+https://docs.microsoft.com/en-us/azure/azure-functions/supported-languages
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-local
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-python
+https://www.youtube.com/watch?v=h4WeWX_CRJM&feature=youtu.be
+
+
+### Azure DevOps
+https://azure.microsoft.com/de-de/services/devops/
+https://azure.microsoft.com/de-de/services/devops/pipelines/
+

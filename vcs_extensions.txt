@@ -1,0 +1,19 @@
+
+### Live Server
+https://github.com/ritwickdey/vscode-live-server
+https://github.com/ritwickdey/vscode-live-server/blob/master/docs/settings.md
+
+1. Open a project and click to Go Live from the status bar to turn the server on/off. 
+2. Open in a browser http://localhost:5500 and choose your folder (Default port is 5500)
+
+P.S. Right click on a HTML file from Explorer Window and click on Open with Live Server - doesn't work (checked_SB 06.27.19)
+
+
+
+### Install Locally ###
+
+### Markdown Preview Enhanced
+https://github.com/shd101wyy/vscode-markdown-preview-enhanced
+
+Open preview to the Side: Ctrl+K V
+Open preview: Ctrl+Shift+V

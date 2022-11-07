@@ -1,0 +1,62 @@
+
+### Install (Docker support)
+1) Install and configure Docker for your operating system.
+# The Visual Studio Code Remote - Containers extension lets you use a Docker container as a full-featured development environment.
+https://code.visualstudio.com/docs/remote/containers
+_ trivial
+
+2) Install Visual Studio Code Insiders.
+https://code.visualstudio.com/insiders/
+_DONE User Installer 64 bit (ver 1.34) (Systemsteuerung\Alle Systemsteuerungselemente\Programme und Features : ver 1.35.0)
+
+3) Install the Remote Development extension pack.
+https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
+This Remote Development extension pack includes three extensions:
+    Remote - SSH - Work with source code in any location by opening folders on a remote machine/VM using SSH.
+    Remote - Containers - Work with a sandboxed toolchain or container based application by opening any folder inside (or mounted into) a container.
+    Remote - WSL - Get a Linux-powered development experience from the comfort of Windows by opening any folder in the Windows Subsystem for Linux.
+_DONE im laufenden VSC im Tab 'Extensions [Ctrl+Shift+X]' den String 'Remote Development' eingeben, auswählen und installieren: wird fast sofort installiert.
+
+# Remote - Containers installation:
+# If you run "git config --global core.autocrlf false", this might cause problems with text files (e.g. python code from a file is merged into one line)
+# To reset, run "git config --global core.autocrlf true" and reclone corresponding repositories
+
+
+### Additional components and tools:
+
+## Git
+https://code.visualstudio.com/docs/setup/additional-components
+Git - VS Code has built-in support for source code control using Git but requires Git to be installed separately.
+
+## Docker
+# Docker Support for Visual Studio Code
+# The Docker extension contributes a new Docker View to VS Code. Within the View, the Explorer lets you view and manage your Images, Containers,
+# and browse your Docker Hub registry. If the Azure Account extension is installed, you can browse your Azure Container Registries as well.
+# With the Docker Explorer you can deploy images from Docker Hub Registries or Azure Container Registries directly to an Azure App Service instance,
+# as detailed in this getting started guide. This functionality requires installing the Azure Account extension and an Azure Subscription.
+# > to test
+https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker
+
+## Dev-containers on GH
+https://github.com/Microsoft/vscode-remote-try-python (tested, runs!)
+https://github.com/Microsoft/vscode-dev-containers
+https://github.com/microsoft/vscode-dev-containers/tree/master/containers
+https://github.com/microsoft/vscode-dev-containers/tree/master/containers/python-3 (tested, runs!)
+
+### Create from existing dockerfile
+https://github.com/microsoft/vscode-dev-containers/tree/master/containers/docker-existing-dockerfile (tested_SB, runs!)
+
+
+### VS Code - Drag the tabs to a new window
+https://superuser.com/questions/1319288/vs-code-drag-tab-to-new-window
+https://github.com/Microsoft/vscode/issues/10121
+Until they support it, you can try the following workarounds:
+## Duplicate Workspace in New Window
+1. Open up Keyboard Shortcuts (File > Preferences > Keyboard Shortcuts)
+2. Type 'Duplicate Workspace in New Window' and map to 'Shift + Alt + N' or whatever you'd like
+
+### VS Code - Run Selected Text in Terminal
+https://code.visualstudio.com/docs/editor/integrated-terminal#_run-selected-text
+1. Open up Keyboard Shortcuts (File > Preferences > Keyboard Shortcuts)
+2. Type 'Run Selected Text' and map to 'Shift + R' or whatever you'd like
+

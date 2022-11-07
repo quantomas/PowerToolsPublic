@@ -1,0 +1,11 @@
+
+https://code.visualstudio.com/docs/getstarted/keybindings
+
+https://stackoverflow.com/questions/41370807/visual-studio-code-shortcut-for-commenting-with-a-german-keyboard-layout
+if you don't know a shortcut on your keyboard, you can look it up under File -> Preferences -> Keyboard Shortcuts.
+
+
+#
+Toggle line comment : Ctrl+#
+Delete line : Ctrl+Shift+K
+
