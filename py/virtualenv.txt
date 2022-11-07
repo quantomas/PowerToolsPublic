@@ -1,0 +1,11 @@
+
+virtualenv is a tool to create isolated Python environments.
+Since Python 3.3, a subset of it has been integrated into the standard library under the venv module.
+The venv module does not offer all features of this library, to name just a few more prominent
+... cannot create virtual environments for arbitrarily installed python versions (and automatically discover these)
+https://virtualenv.pypa.io/en/latest/
+
+
+!!! Installing Multiple Python Versions on Windows Using Virtualenv
+https://www.freecodecamp.org/news/installing-multiple-python-versions-on-windows-using-virtualenv/
+

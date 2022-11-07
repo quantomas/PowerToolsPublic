@@ -1,0 +1,23 @@
+
+sudo yum install python36 python36-devel python36-pip python36-setuptools python36-virtualenv
+
+pip-3.6 -V
+
+sudo pip-3.6 install --upgrade pip
+
+https://docs.aws.amazon.com/de_de/cli/latest/userguide/awscli-install-linux-python.html
+
+sudo yum install python
+
+https://codeburst.io/getting-python-3-up-and-running-on-amazons-cloud-3d04c0ee61af
+
+sudo yum update -y
+
+sudo yum list | grep python3
+
+
+https://docs.aws.amazon.com/de_de/elasticbeanstalk/latest/dg/eb-cli3-install-linux.html
+
+curl -O https://bootstrap.pypa.io/get-pip.py
+
+python3 get-pip.py --user

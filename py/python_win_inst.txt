@@ -1,0 +1,53 @@
+
+# Saubere Python-Installation unter Windows
+https://docs.aws.amazon.com/de_de/cli/latest/userguide/awscli-install-windows.html
+
+So installieren Sie Python 3.6 und pip (Windows)
+    Laden Sie die ausführbare Installationsdatei für Python 3.6 Windows x86-64 von der Downloads-Seite von Python.org herunter.
+    Führen Sie das Installationsprogramm aus.
+    Wählen Sie Python 3.6 zu PATH hinzufügen.
+    Wählen Sie Install Now aus.
+
+Das Installationsprogramm installiert Python in Ihrem Benutzerordner und fügt seine ausführbaren Verzeichnisse Ihrem Benutzerpfad hinzu. 
+
+
+### Docs
+
+https://www.python.org/downloads/release/python-373/
+https://docs.python.org/3.7/tutorial/index.html
+https://docs.python.org/3.7/index.html
+https://www.scrapehero.com/how-to-install-python3-in-windows-10/
+
+
+### Command line
+
+python --version
+python --help
+
+pip --version
+
+# Checks
+
+where python
+
+> C:\Users\yourname\AppData\Local\Programs\Python\Python37\python.exe
+
+
+### AWS CLI
+
+pip install awscli
+
+aws --version
+
+pip install --user --upgrade awscli
+
+# Checks
+
+where aws
+> C:\Users\yourname\AppData\Local\Programs\Python\Python37\Scripts\aws
+> C:\Users\yourname\AppData\Local\Programs\Python\Python37\Scripts\aws.cmd
+
+
+### Notepad++
+https://stackoverflow.com/questions/1702586/how-to-execute-a-python-script-in-notepad
+

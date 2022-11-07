@@ -1,0 +1,33 @@
+
+py -m pip --version
+
+https://pip.pypa.io/en/stable/installing/
+python -m pip install --upgrade pip
+
+py -m pip install -U pip
+
+
+# anderes
+
+pip3 install --upgrade pip
+
+
+# Show all information about a package
+https://pip.pypa.io/en/stable/reference/pip_show/
+
+py -m pip show --verbose
+
+
+# upgrade packages
+https://pip.pypa.io/en/latest/reference/pip_install/
+
+py -m pip install --upgrade SomePackage
+
+pip install --upgrade SomePackage
+
+
+# List installed packages
+https://pip.pypa.io/en/stable/reference/pip_list/
+
+pip list
+
