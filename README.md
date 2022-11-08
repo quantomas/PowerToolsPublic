@@ -7,6 +7,7 @@ Da die Textdateien sehr viele Links und URLs enthalten, ist es möglich, dass ei
 
 ## Das Wichtigste
 * [VSC Keyboard shortcuts for Windows](pdf/keyboard-shortcuts-windows_v2.pdf)
+* [VSC Literatur](vsc/vsc_books.md)
 * [Python Installation](py/)
 * [Python Basisbeispiele](py/basics/)
 * git (demnächst)
