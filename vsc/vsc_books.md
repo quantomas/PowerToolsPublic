@@ -1,6 +1,5 @@
 
-Visual Studio Code Distilled: Evolved Code Editing for Windows, macOS, and Linux
-https://www.amazon.de/Visual-Studio-Code-Distilled-Evolved/dp/1484242238/ 19
+[Visual Studio Code Distilled: Evolved Code Editing for Windows, macOS, and Linux](https://www.amazon.de/Visual-Studio-Code-Distilled-Evolved/dp/1484242238/) 19
 
 Visual Studio Code Distilled: Evolved Code Editing for Windows, macOS, and Linux, 2. Auflage
 https://www.amazon.de/Visual-Studio-Code-Distilled-Evolved/dp/1484269004/ : 33/36
